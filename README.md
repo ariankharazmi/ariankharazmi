@@ -11,9 +11,9 @@ My dream is to someday have my own tech start-up company.
 - 🔭 I’m currently working on self teaching Python and the fundamentals about microcontrollers. I want to learn more about Raspberry Pi(s) and Arduinos.
 - 🌱 I’m currently learning Python 3.7, perhaps C++ after.
 - 👯 I’m looking to collaborate on more IT related projects and repositories.
-- 🤔 I’m looking for help with Getting better with Python.
-- 💬 Ask me about Technology, my favorite subject.
-- 📫 How to reach me: My email.
+- 🤔 I’m looking for help with getting better with Python.
+- 💬 Ask me about technology
+- 📫 How to reach me: email.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I would love to go skydiving.
 
