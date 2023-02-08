@@ -9,7 +9,7 @@ I want to be involved in the decisions that can help our world progress forward.
 My dream is to someday have my own tech start-up company.
 
 - 🔭 I’m currently working on self teaching Python and learning about about microcontrollers. I want to understand more about Python and microcontrollers (Pi/Arduino).
-- 🌱 I’m currently learning Python 3 and Swift, perhaps C++ after.
+- 🌱 I’m currently learning Python and Swift, perhaps C++ after.
 - 👯 I’m looking to collaborate on more IT related projects and repositories.
 - 🤔 I’m looking for help with getting better with Python.
 - 💬 Ask me about technology.
