@@ -1,7 +1,8 @@
 ### Hi!👋
 <p align="center">
 <a href="https://github.com/ariankharazmi">
-    <img src="https://avatars.githubusercontent.com/u/100003892?v=4">
+    <img src="https://avatars.githubusercontent.com/u/100003892?v=4"
+    alt="arian" height="80" width="80">
 </a>
 <br/>  
   
