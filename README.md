@@ -39,8 +39,12 @@ My dream is to someday have my own tech start-up company.
 | [ContentCharts-Web-Application](https://github.com/ariankharazmi/ContentCharts-Web-Application) | Python, RSS, Streamlit | W.I.P - Beta |
 | [ariankharazmi.org](https://github.com/ariankharazmi/ariankharazmi.org) | GitHub Pages, Google Domains, GitHub Actions | W.I.P |
 
-</td></tr> </table>
+### Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
   
+</td></tr> </table>
+![GitHub Stats]https://github-readme-stats.vercel.app/api?username=ariankharazmi&show_icons=true
 --> That is pretty much it. Thanks for visiting my page!
 
 
