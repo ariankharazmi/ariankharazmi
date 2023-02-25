@@ -2,7 +2,7 @@
 <p align="center">
 <a href="https://github.com/ariankharazmi">
     <img src="https://homepages.uc.edu/~kharazan/webdevelopment/website/arian2017img.jpg"
-    alt="arian" height="80" width="80">
+    alt="arian" height="100" width="100">
 </a>
 <br/>  
   
