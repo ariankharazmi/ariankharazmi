@@ -1,7 +1,7 @@
 ### Hi!👋
 <p align="center">
 <a href="https://github.com/ariankharazmi">
-    <img src="https://avatars.githubusercontent.com/u/121521830?s=200&v=4"
+    <img src="![arian2017img](https://user-images.githubusercontent.com/100003892/221374988-784b007c-18ed-4f7a-92d7-a468761aacd5.jpg)"
     alt="arian" height="80" width="80">
 </a>
 <br/>  
