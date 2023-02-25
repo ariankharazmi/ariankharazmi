@@ -3,7 +3,8 @@
 <a href="https://github.com/ariankharazmi">
 </a>
 <a href="https://ariankharazmi.org/">
-</a>  
+</a>
+ 
 Hello, my name is Arian Kharazmi. 
 I am a student at the University of Cincinnati and I am a Junior student currently pursuing a Bachelor’s degree in Information Technology and a Master's/MSc degree in Computer Science.
 
