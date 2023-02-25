@@ -1,5 +1,5 @@
 ### Hi!👋
-<p align="center">
+<p align="left">
 <a href="https://github.com/ariankharazmi">
     <img src="https://avatars.githubusercontent.com/u/121521830?s=200&v=4"
     alt="arian" height="80" width="80">
