@@ -6,15 +6,15 @@
 </a>
 <br/>  
   
-#wrapper { width: 100%;
-           margin-left: auto;
-           margin-right: auto;
-           background-color: #00eeff;
-           background-image: linear-gradient(to bottom, #000000, #ffffff);
-           min-width: 1000px;
-           max-width: 1000px;
-           box-shadow: 4px 4px 4px #ffffff;
-           border: 1.5px solid #aaaaaa;}
+{ width: 100%;
+margin-left: auto;
+margin-right: auto;
+background-color: #00eeff;
+background-image: linear-gradient(to bottom, #000000, #ffffff);
+min-width: 1000px;
+max-width: 1000px;
+box-shadow: 4px 4px 4px #ffffff;
+border: 1.5px solid #aaaaaa;}
     
     
     
