@@ -40,11 +40,12 @@ My dream is to someday have my own tech start-up company.
 | [ariankharazmi.org](https://github.com/ariankharazmi/ariankharazmi.org) | GitHub Pages, Google Domains, GitHub Actions | W.I.P |
 
 ### Skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB??style=flat-square&logo=appveyor)
+![HTML](https://img.shields.io/badge/HTML-239120??style=flat-square&logo=appveyor)
   
 </td></tr> </table>
-![GitHub Stats]https://github-readme-stats.vercel.app/api?username=ariankharazmi&show_icons=true
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ariankharazmi&show_icons=true)
 --> That is pretty much it. Thanks for visiting my page!
 
 
