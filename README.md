@@ -37,14 +37,8 @@ My dream is to someday have my own tech start-up company.
 | [Exchange-Rate-Application](https://github.com/ariankharazmi/ExchangeRateApplication-UC_Final) | Java | Completed |
 | [University of Birmingham - Full Stack Application Dev Repos](https://github.com/ariankharazmi/Full-Stack-Software-Development-Repos-University-of-Birmingham) | JavaFX | Ongoing Course |
 | [ContentCharts-Web-Application](https://github.com/ariankharazmi/ContentCharts-Web-Application) | Python, RSS, Streamlit | W.I.P - Beta |
-| [ariankharazmi.org](https://github.com/ariankharazmi/ariankharazmi.org) | GitHub Pages, Google Domains, GitHub Actions | W.I.P |
-
-### Skills
-![Python](https://img.shields.io/badge/Python-3776AB??style=flat-square&logo=appveyor)
-![HTML](https://img.shields.io/badge/HTML-239120??style=flat-square&logo=appveyor)
-  
+| [ariankharazmi.org](https://github.com/ariankharazmi/ariankharazmi.org) | GitHub Pages, Google Domains, GitHub Actions | W.I.P |  
 </td></tr> </table>
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ariankharazmi&show_icons=true)
 --> That is pretty much it. Thanks for visiting my page!
 
