@@ -26,7 +26,7 @@ My dream is to someday have my own tech start-up company.
   
 ### Notable Projects
   
-|Projects|Technologies|State of Progress|
+|Project|Technologies|State of Progress|
 |--|--|--|
 | [COVID-19-Utility-Web-Application](https://github.com/ariankharazmi/COVID-19-Utility-Web-Application) | Python, Streamlit | W.I.P - Alpha |
 | [PriceCheckNotify-TwilioSMS-API](https://github.com/ariankharazmi/PriceCheckNotify-TwilioSMS-API) | Python, Twilio API | Completed |
