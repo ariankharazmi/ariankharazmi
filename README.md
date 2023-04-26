@@ -14,7 +14,7 @@ I want to be involved in the decisions that can help our world progress forward.
 My dream is to someday have my own tech start-up company.
 
 - 🔭 I’m currently working on several projects and learning about Full-Stack Application Development for uni.
-- 🌱 I’m currently self-learning Python and getting started with the Swift language!
+- 🌱 I’m currently self-learning Python and diving into the world of AI and Language Models.
 - 👯 I’m looking to collaborate on IT/CS related projects and repositories.
 - 🤔 I’m looking for help with making better GitHub Pages.
 - 💬 Ask me about anything technology-related.
