@@ -31,7 +31,7 @@ My dream is to someday have my own tech start-up company.
 | [COVID-19-Utility-Web-Application](https://github.com/ariankharazmi/COVID-19-Utility-Web-Application) | Python, Streamlit | W.I.P - Beta |
 | [PriceCheckNotify-TwilioSMS-API](https://github.com/ariankharazmi/PriceCheckNotify-TwilioSMS-API) | Python, Twilio API | Completed |
 | [Exchange-Rate-Application](https://github.com/ariankharazmi/ExchangeRateApplication-UC_Final) | Java | Completed |
-| [University of Birmingham - Full Stack Application Dev Repos](https://github.com/ariankharazmi/Full-Stack-Software-Development-Repos-University-of-Birmingham) | JavaFX, SQL | Ongoing Course |
+| [University of Birmingham - Full Stack Application Dev Repos](https://github.com/ariankharazmi/Full-Stack-Software-Development-Repos-University-of-Birmingham) | JavaFX, pSQL/PostgreSQL, Java Network, Neo4J/Cypher | Ongoing Course |
 | [ContentCharts-Web-Application](https://github.com/ariankharazmi/ContentCharts-Web-Application) | Python, RSS, Streamlit | W.I.P - Beta |
 | [ariankharazmi.com](https://github.com/ariankharazmi/ariankharazmi.org) | GitHub Pages, Google Domains, GitHub Actions | W.I.P |  
 </td></tr> </table>
