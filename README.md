@@ -6,9 +6,9 @@
 </a>
  
 Hello, my name is Arian Kharazmi. 
-I am a student at the University of Cincinnati and I am a Junior student currently pursuing a Bachelor’s degree in Information Technology - (Software Application Development) and a Master's/MSc degree in Computer Science.
+I am a student at the University of Cincinnati and I am a Junior student currently pursuing a Bachelor’s degree in Information Technology - (Software Application Development) and a MSc (or PhD) degree in Computer Science.
 
-I am pursuing a career in IT-CS because I have always wanted to use technology for the ability to push communities forward
+I am pursuing a career in tech because I have always wanted to use technology for the ability to push communities forward
 and change someone’s life you don’t even know for the better. 
 I want to be involved in the decisions that can help our world progress forward. 
 My dream is to someday have my own tech start-up company.
