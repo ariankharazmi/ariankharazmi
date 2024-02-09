@@ -33,7 +33,7 @@ My dream is to someday have my own tech start-up company.
 | [Contemporary-Programming-Web-API](https://github.com/ariankharazmi/IT3045C_Final) | C#, .NET, EntityFrameworkCore, WebAPI, Postman, NSwag | Completed |
 | [University of Birmingham - Full Stack Application Dev Repos](https://github.com/ariankharazmi/Full-Stack-Software-Development-Repos-University-of-Birmingham) | Java, JavaFX, PostgreSQL, Java Network, Neo4J/Cypher | Completed |
 | [ContentCharts-Web-Application](https://github.com/ariankharazmi/ContentCharts-Web-Application) | Python, RSS, Streamlit | W.I.P - Beta |
-| [ariankharazmi.com](https://github.com/ariankharazmi/ariankharazmi.org) | GitHub Pages, Google Domains (R.I.P), GitHub Actions | W.I.P |  
+| [ariankharazmi.com](https://github.com/ariankharazmi/ariankharazmi.org) | GitHub Pages, Squarespace Domains, GitHub Actions | W.I.P |  
 </td></tr> </table>
 
 --> That is pretty much it. Thanks for visiting my page!
