@@ -31,6 +31,7 @@ My dream is to someday have my own tech start-up company.
 | [COVID-19-Utility-Web-Application](https://github.com/ariankharazmi/COVID-19-Utility-Web-Application) | Python, Streamlit | Beta - Release |
 | [PriceCheckNotify-TwilioSMS-API](https://github.com/ariankharazmi/PriceCheckNotify-TwilioSMS-API) | Python, Twilio API | Completed |
 | [Contemporary-Programming-Web-API](https://github.com/ariankharazmi/IT3045C_Final) | C#, .NET, EntityFrameworkCore, WebAPI, Postman, NSwag | Completed |
+| [Enterprise Application Development - ToDoList App](https://github.com/ariankharazmi/IT4045C-FinalProject-ToDoListApp) | Java, Maven, MySQL, RESTful Services, CRUD, Thymeleaf | Completed| 
 | [University of Birmingham - Full Stack Application Dev Repos](https://github.com/ariankharazmi/Full-Stack-Software-Development-Repos-University-of-Birmingham) | Java, JavaFX, PostgreSQL, Java Network, Neo4J/Cypher | Completed |
 | [ContentCharts-Web-Application](https://github.com/ariankharazmi/ContentCharts-Web-Application) | Python, RSS, Streamlit | W.I.P - Beta |
 | [ariankharazmi.com](https://github.com/ariankharazmi/ariankharazmi.org) | GitHub Pages, Squarespace Domains, GitHub Actions | W.I.P |  
