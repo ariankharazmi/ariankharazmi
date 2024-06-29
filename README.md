@@ -36,7 +36,7 @@ My hope is to give back in some way, shape or form.
 | [Contemporary-Programming-Web-API](https://github.com/ariankharazmi/IT3045C_Final) | C#, .NET, EntityFrameworkCore, WebAPI, Postman, NSwag | Completed |
 | [University of Birmingham - Full Stack Application Dev Repos](https://github.com/ariankharazmi/Full-Stack-Software-Development-Repos-University-of-Birmingham) | Java, JavaFX, PostgreSQL, Java Network, Neo4J/Cypher | Completed |
 | [PriceCheckNotify-TwilioSMS-API](https://github.com/ariankharazmi/PriceCheckNotify-TwilioSMS-API) | Python, Twilio API | Completed |
-| [ariankharazmi.com](https://github.com/ariankharazmi/ariankharazmi.org) | GitHub Pages, Squarespace Domains, GitHub Actions | W.I.P |  
+| [ariankharazmi.com](https://github.com/ariankharazmi/ariankharazmi.org) | GitHub Pages, Squarespace Domains | W.I.P - Beta |  
 </td></tr> </table>
 
 --> That is pretty much it. Thanks for visiting my page!
