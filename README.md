@@ -17,7 +17,7 @@ My hope is to give back in some way, shape or form.
 - 🔭 I’m currently working on several projects and trying to learn as much as possible!
 - 🌱 I’m currently self-learning Python and diving into the world of AI and LLMs/RAGs.
 - 👯 I’m looking to collaborate on IT-CS related projects and repositories.
-- 🤔 I’m looking for help with making better GitHub Pages.
+- 🤔 I’m looking for help with becoming more knowledgeable about ML/Transformers
 - 💬 Ask me about anything technology-related.
 - 📫 How to reach me: Email, text, LinkedIn!
 - 😄 Pronouns: He/Him
