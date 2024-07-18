@@ -29,7 +29,7 @@ My hope is to give back in some way, shape or form.
   
 |Project|Technologies|State of Progress|
 |--|--|--|
-| [COVID-19-Utility-Web-Application](https://github.com/ariankharazmi/COVID-19-Utility-Web-Application) | Python, Streamlit | Beta - Release |
+| [COVID-19-Utility-Web-Application](https://github.com/ariankharazmi/COVID-19-Utility-Web-Application) | Python, Streamlit, DiseaseAPI | Beta - Release |
 | [Enterprise Application Development - ToDoList App](https://github.com/ariankharazmi/IT4045C-FinalProject-ToDoListApp) | Java, Maven, MySQL, RESTful Services, CRUD, Thymeleaf | Completed|
 | [EEP2024 Deliverables](https://github.com/ariankharazmi/EEP24Deliverables) | Python, Transformers, Torch, JSON, random, OpenAI | W.I.P |
 | [ContentCharts-Web-Application](https://github.com/ariankharazmi/ContentCharts-Web-Application) | Python, RSS, Streamlit | W.I.P - Beta |
