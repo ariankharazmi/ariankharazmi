@@ -29,9 +29,9 @@ My hope is to give back in some way, shape or form.
   
 |Project|Technologies|State of Progress|
 |--|--|--|
+| [Curiosity-14 (LLM)](https://github.com/ariankharazmi/curiosity-14-llm) | Python, Transformers, Torch, JSON, random, OpenAI, HuggingFace datasets, GPT-2, GPT-2Tokenizer | Completed |
 | [COVID-19-Utility-Web-Application](https://github.com/ariankharazmi/COVID-19-Utility-Web-Application) | Python, Streamlit, DiseaseAPI | Beta - Release |
 | [Enterprise Application Development - ToDoList App](https://github.com/ariankharazmi/IT4045C-FinalProject-ToDoListApp) | Java, Maven, MySQL, RESTful Services, CRUD, Thymeleaf | Completed|
-| [Curiosity-14 (LLM)](https://github.com/ariankharazmi/curiosity-14-llm) | Python, Transformers, Torch, JSON, random, OpenAI, HuggingFace datasets, GPT-2, GPT-2Tokenizer | Completed |
 | [EEP2024 Deliverables](https://github.com/ariankharazmi/EEP24Deliverables) | Python, Transformers, Torch, JSON, random, OpenAI, HuggingFace datasets | Completed |
 | [ContentCharts-Web-Application](https://github.com/ariankharazmi/ContentCharts-Web-Application) | Python, RSS, Streamlit | W.I.P - Beta |
 | [Contemporary-Programming-Web-API](https://github.com/ariankharazmi/IT3045C_Final) | C#, .NET, EntityFrameworkCore, WebAPI, Postman, NSwag | Completed |
