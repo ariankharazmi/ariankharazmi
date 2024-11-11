@@ -27,17 +27,17 @@ My hope is to give back in some way, shape or form.
   
 ### Notable Projects
   
-|Project|Technologies|State of Progress|
-|--|--|--|
-| [Curiosity-14 (LLM)](https://github.com/ariankharazmi/curiosity-14-llm) | Python, Transformers, Torch, JSON, random, OpenAI, HuggingFace datasets, GPT-2, GPT-2Tokenizer | Completed |
-| [COVID-19-Utility-Web-Application](https://github.com/ariankharazmi/COVID-19-Utility-Web-Application) | Python, Streamlit, DiseaseAPI | Beta - Release |
-| [Enterprise Application Development - ToDoList App](https://github.com/ariankharazmi/IT4045C-FinalProject-ToDoListApp) | Java, Maven, MySQL, RESTful Services, CRUD, Thymeleaf | Completed|
-| [EEP2024 Deliverables](https://github.com/ariankharazmi/EEP24Deliverables) | Python, Transformers, Torch, JSON, random, OpenAI, HuggingFace datasets | Completed |
-| [ContentCharts-Web-Application](https://github.com/ariankharazmi/ContentCharts-Web-Application) | Python, RSS, Streamlit | W.I.P - Beta |
-| [Contemporary-Programming-Web-API](https://github.com/ariankharazmi/IT3045C_Final) | C#, .NET, EntityFrameworkCore, WebAPI, Postman, NSwag | Completed |
-| [University of Birmingham - Full Stack Application Dev Repos](https://github.com/ariankharazmi/Full-Stack-Software-Development-Repos-University-of-Birmingham) | Java, JavaFX, PostgreSQL, Java Network, Neo4J/Cypher | Completed |
-| [PriceCheckNotify-TwilioSMS-API](https://github.com/ariankharazmi/PriceCheckNotify-TwilioSMS-API) | Python, Twilio API | Completed |
-| [ariankharazmi.com](https://github.com/ariankharazmi/ariankharazmi.org) | GitHub Pages, Squarespace Domains | W.I.P - Beta |  
+|Project|Technologies|State of Progress|Year|
+|--|--|--|---|
+| [Curiosity-14 (LLM)](https://github.com/ariankharazmi/curiosity-14-llm) | Python, Transformers, Torch, JSON, random, OpenAI, HuggingFace datasets, GPT-2, GPT-2Tokenizer | Completed | Summer 2024 |
+| [COVID-19-Utility-Web-Application](https://github.com/ariankharazmi/COVID-19-Utility-Web-Application) | Python, Streamlit, DiseaseAPI | Beta - Release | 2022 - 2023 |
+| [Enterprise Application Development - ToDoList App](https://github.com/ariankharazmi/IT4045C-FinalProject-ToDoListApp) | Java, Maven, MySQL, RESTful Services, CRUD, Thymeleaf | Completed| Spring 2024 |
+| [EEP2024 Deliverables](https://github.com/ariankharazmi/EEP24Deliverables) | Python, Transformers, Torch, JSON, random, OpenAI, HuggingFace datasets | Completed | Summer 2024 |
+| [ContentCharts-Web-Application](https://github.com/ariankharazmi/ContentCharts-Web-Application) | Python, RSS, Streamlit | W.I.P - Beta | 2022-2023 |
+| [Contemporary-Programming-Web-API](https://github.com/ariankharazmi/IT3045C_Final) | C#, .NET, EntityFrameworkCore, WebAPI, Postman, NSwag | Completed | Fall 2023 |
+| [University of Birmingham - Full Stack Application Dev Repos](https://github.com/ariankharazmi/Full-Stack-Software-Development-Repos-University-of-Birmingham) | Java, JavaFX, PostgreSQL, Java Network, Neo4J/Cypher | Completed | Spring 2023 |
+| [PriceCheckNotify-TwilioSMS-API](https://github.com/ariankharazmi/PriceCheckNotify-TwilioSMS-API) | Python, Twilio API | Completed | Summer 2022 |
+| [ariankharazmi.com](https://github.com/ariankharazmi/ariankharazmi.org) | GitHub Pages, Squarespace Domains | W.I.P - Beta | 2022 - Present |
 </td></tr> </table>
 
 --> That is pretty much it. Thanks for visiting my page!
