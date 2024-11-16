@@ -32,7 +32,7 @@ My hope is to give back in some way, shape or form.
 |Project|Technologies|State of Progress|Year|
 |--|--|--|---|
 | [Curiosity-14 (LLM)](https://github.com/ariankharazmi/curiosity-14-llm) | Python, Transformers, Torch, JSON, random, OpenAI, HuggingFace datasets, GPT-2, GPT-2Tokenizer | Completed | Summer 2024 |
-| [COVID-19-Utility-Web-Application](https://github.com/ariankharazmi/COVID-19-Utility-Web-Application) | Python, Streamlit, DiseaseAPI | Beta - Release | 2022 - 2023 |
+| [COVID-19-Utility-Web-Application](https://github.com/ariankharazmi/COVID-19-Utility-Web-Application) | Python, Streamlit, DiseaseAPI | Completed | 2022 - 2023 |
 | [Enterprise Application Development - ToDoList App](https://github.com/ariankharazmi/IT4045C-FinalProject-ToDoListApp) | Java, Maven, MySQL, RESTful Services, CRUD, Thymeleaf | Completed| Spring 2024 |
 | [EEP2024 Deliverables](https://github.com/ariankharazmi/EEP24Deliverables) | Python, Transformers, Torch, JSON, random, OpenAI, HuggingFace datasets | Completed | Summer 2024 |
 | [ContentCharts-Web-Application](https://github.com/ariankharazmi/ContentCharts-Web-Application) | Python, RSS, Streamlit | W.I.P - Beta | 2022-2023 |
