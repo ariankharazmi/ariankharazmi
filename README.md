@@ -7,7 +7,7 @@
 </a>
  
 Hello, my name is Arian Kharazmi. 
-I am a student at New York University and I am a Graduate student currently pursuing a Master’s degree in Computer Science.
+I am a Graduate student at New York University and I am currently pursuing a Master’s degree in Computer Science.
 
 I am pursuing a career in tech because I have always wanted to use technology for the ability to push communities forward
 and change someone’s life you don’t even know for the better. 
