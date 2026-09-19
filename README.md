@@ -14,10 +14,10 @@ and change someone’s life you don’t even know for the better.
 I want to be involved in the decisions that can help our world progress forward. 
 My hope is to give back in some way, shape or form.
 
-- 🔭 I’m currently working on several projects and trying to learn as much as possible!
+- 🔭 I’m looking for a technical co-founder!
 - 🌱 I’m currently self-learning embedded systems alongside my CS curricula.
 - 👯 I’m looking to collaborate on IT-CS related projects and repositories.
-- 🤔 I’m looking for help with becoming more knowledgeable about ML/Transformers.
+- 🤔 I’m looking for help with becoming more knowledgeable about design engineering.
 - ♟️ Trying to get better at Chess!
 - 📖 Reading Apple: The First 50 Years.
 - 💬 Ask me about anything technology-related.
