@@ -7,7 +7,7 @@
 </a>
  
 Hello, my name is Arian Kharazmi. 
-I am a student at the University of Cincinnati and I am a Senior student currently pursuing a Bachelor’s degree in Information Technology - (Software Application Development) and an MSc (or PhD) degree in Computer Science.
+I am a student at New York University and I am a Graduate student currently pursuing a Master’s degree in Computer Science.
 
 I am pursuing a career in tech because I have always wanted to use technology for the ability to push communities forward
 and change someone’s life you don’t even know for the better. 
@@ -15,11 +15,11 @@ I want to be involved in the decisions that can help our world progress forward.
 My hope is to give back in some way, shape or form.
 
 - 🔭 I’m currently working on several projects and trying to learn as much as possible!
-- 🌱 I’m currently self-learning Python and diving into the world of AI and LLMs/RAGs.
+- 🌱 I’m currently self-learning embedded systems alongside my CS curricula.
 - 👯 I’m looking to collaborate on IT-CS related projects and repositories.
 - 🤔 I’m looking for help with becoming more knowledgeable about ML/Transformers.
 - ♟️ Trying to get better at Chess!
-- 📖 Reading Introduction to Statistical Learning.
+- 📖 Reading Apple: The First 50 Years.
 - 💬 Ask me about anything technology-related.
 - 📫 How to reach me: Email, text, LinkedIn!
 - 😄 Pronouns: He/Him
